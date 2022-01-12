@@ -1,0 +1,4 @@
+xss-lock slock &
+dwmblocks &
+setxkbmap -option caps:swapescape &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
