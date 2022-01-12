@@ -1,0 +1,6 @@
+[
+{ "keys": ["k","UP"], "type": "function", "command": "move_up" },
+{ "keys": ["j","DOWN"], "type": "function", "command": "move_down" },
+{ "keys": ["dd"], "type": "function", "command": "delete" },
+{ "keys": ["l"], "command": "todo clear $n" }
+]

@@ -1,0 +1,13 @@
+{
+	"$schema": "https://joplinapp.org/schema/settings.json",
+	"locale": "es_ES",
+    "api.token": "----",
+	"markdown.plugin.softbreaks": false,
+	"markdown.plugin.typographer": false,
+	"sync.target": 3,
+	"editor": "nvim",
+	"notes.sortOrder.field": "title",
+	"notes.sortOrder.reverse": false,
+	"trackLocation": false,
+	"style.editor.contentMaxWidth": 600
+}
